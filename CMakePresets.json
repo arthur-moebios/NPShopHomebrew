@@ -1,0 +1,57 @@
+{
+    "version": 3,
+    "cmakeMinimumRequired": {
+        "major": 3,
+        "minor": 21,
+        "patch": 0
+    },
+    "configurePresets": [
+        {
+            "name": "core",
+            "displayName": "core",
+            "hidden": true,
+            "binaryDir": "${sourceDir}/build/${presetName}"
+        },
+        {
+            "name": "Release",
+            "displayName": "Release",
+            "inherits":["core"],
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "MinSizeRel",
+                "ENABLE_NETWORK_INSTALL": false
+            }
+        },
+        {
+            "name": "ReleaseWithInstall",
+            "displayName": "ReleaseWithInstall",
+            "inherits":["core"],
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "MinSizeRel",
+                "ENABLE_NETWORK_INSTALL": true
+            }
+        },
+        {
+            "name": "Debug",
+            "displayName": "Debug",
+            "inherits":["core"],
+            "cacheVariables": { "CMAKE_BUILD_TYPE":"Debug" }
+        }
+    ],
+    "buildPresets": [
+        {
+            "name": "Release",
+            "configurePreset": "Release",
+            "jobs": 16
+        },
+        {
+            "name": "ReleaseWithInstall",
+            "configurePreset": "ReleaseWithInstall",
+            "jobs": 16
+        },
+        {
+            "name": "Debug",
+            "configurePreset": "Debug",
+            "jobs": 16
+        }
+    ]
+}

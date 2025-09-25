@@ -1,0 +1,20 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "build\\Release",
+      "build\\ReleaseWithInstall",
+      "build\\Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\NPShop",
+    "\\NPShop\\include",
+    "\\NPShop\\include\\ui",
+    "\\NPShop\\source",
+    "\\NPShop\\source\\ui",
+    "\\NPShop\\source\\ui\\menus"
+  ],
+  "SelectedNode": "\\NPShop\\source\\device_auth.cpp",
+  "PreviewInSolutionExplorer": false
+}
