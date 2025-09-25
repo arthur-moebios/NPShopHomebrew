@@ -23,5 +23,5 @@ libs/tweeny
 
 compile_commands.json
 out
-
+.vs/
 usb_test/
