@@ -65,6 +65,7 @@ Together, they form a unified experience to **safely host, sync, and install you
 - Smooth navigation, placeholder artwork, and responsive scaling for handheld/docked modes.  
 - Multilingual interface (English / Portuguese).  
 
+## Coming soon:
 #### 🧩 Sysmodule Integration (NPShop Sysd)
 - Optional **background download service**, keeping transfers running while in other apps or home menu.  
 - Planned **Tesla overlay** to show download progress notifications.  
@@ -145,8 +146,9 @@ Juntos, eles oferecem uma experiência completa para **hospedar, sincronizar e i
 - Layout da AppStore totalmente redesenhado (modo grade + detalhes).  
 - Ícones e banners dinâmicos com cache local.  
 - Arte substituta (placeholder) com gradiente e tipografia aprimorada.  
-- Interface multilíngue (Inglês e Português).  
+- Interface multilíngue (Inglês e Português).
 
+## Em breve:
 #### 🧩 Integração Sysmodule (NPShop Sysd)
 - Serviço opcional de **downloads em segundo plano**, permitindo continuar transferências enquanto o usuário sai do app.  
 - Suporte planejado para **Tesla Overlay** exibindo progresso.  
