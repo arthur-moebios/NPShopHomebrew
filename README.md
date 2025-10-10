@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://npshop.org/public/assets/logo.png" alt="NPShop Logo" width="80" height="80"/>
+  <img src="https://npshop.org/public/assets/logo.png" alt="NPShop Logo" width="400" height="400"/>
 </p>
 
 <h1 align="center">🧩 NPShop</h1>
