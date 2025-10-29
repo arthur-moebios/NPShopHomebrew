@@ -191,4 +191,4 @@ Se desejar fazer uma doação ao projeto agradecemos desde já.
 
 https://nubank.com.br/cobrar/p7qsa/69025bed-a3ac-44c7-9637-a11a58cbc32b
 
-[<img src="https://npshop.org/qrdoacao.png" alt="NPShop Doação" width="400" height="400"](https://nubank.com.br/cobrar/p7qsa/69025bed-a3ac-44c7-9637-a11a58cbc32b)/>
+[<img src="https://npshop.org/qrdoacao.png" alt="NPShop Doação" width="400" height="400"/>](https://nubank.com.br/cobrar/p7qsa/69025bed-a3ac-44c7-9637-a11a58cbc32b)
