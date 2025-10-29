@@ -186,3 +186,9 @@ Autores e contribuidores originais:
 - **borealis**, **stb**, **yyjson**, **nx-hbmenu**, **nx-hbloader**, **deko3d-nanovg**, **libpulsar**, **minIni**, **GBATemp**, **hb-appstore**, **haze**, **nxdumptool**, **Liam0**, **libusbhsfs**, **libnxtc**, **oss-nvjpg**, **nsz**, **themezer** — e todos que contribuíram com código, ideias e bibliotecas open-source.
 
 ❤️ *O NPShop continua o legado do Sphaira, com integração à nuvem, interface moderna e foco em usabilidade e legalidade.*
+### A NPShop é grátis e sempre será
+Se desejar fazer uma doação ao projeto agradecemos desde já.
+
+https://nubank.com.br/cobrar/p7qsa/69025bed-a3ac-44c7-9637-a11a58cbc32b
+
+<img src="https://npshop.org/qrdoacao.png" alt="NPShop Doação" width="400" height="400"/>
