@@ -23,89 +23,6 @@
 
 ---
 
-## 🇬🇧 English
-
-### Overview
-NPShop is an **ecosystem** composed of:
-
-1. **NPShop Homebrew** — a Switch-side client for browsing, downloading, installing, and managing your library directly from your console.  
-2. **NPShop.org** — a web backend and dashboard connected to your Google Drive for game management, Tinfoil catalog generation, save backup/restore, and device authorization.
-
-Together, they form a unified experience to **safely host, sync, and install your own legally owned backups**.
-
----
-
-### 🔧 Features (Homebrew App)
-
-#### 🎮 Game Library
-- Browse, search, and install games, updates, and DLCs from your linked **NPShop.org** account.  
-- Supports **NSP**, **XCI**, **NSZ**, and **XCZ** file formats.  
-- Automatic **version detection** from the console (reads NACP metadata).  
-- Displays *Installed* and *Available* versions side-by-side for clarity.  
-- Built-in **update and DLC manager** with Google Drive integration.  
-
-#### ☁️ Cloud Integration
-- Uses **Google OAuth 2.0 device authorization** — link your Switch by scanning a QR code.  
-- Direct, authenticated **Google Drive downloads** using downscoped access tokens (secure per-file access).  
-- **Encrypted Tinfoil Index (.tfl)** generation supported by NPShop backend.  
-
-#### 💾 Save Management
-- Backup and restore **save data** to and from Google Drive.  
-- Multiple slots and automatic cloud sync.  
-- Compatible with all user profiles.  
-
-#### ⚙️ File System Support
-- Works seamlessly with **FAT32** and **exFAT** SD cards.  
-- Smart segmented downloads for large (>4 GB) files with automatic stitching.  
-- Auto-resume, error recovery, and integrity verification.  
-
-#### 🧠 UX / UI
-- Redesigned AppStore layout (grid + detail view).  
-- Dynamic banner and icon loading (cached locally).  
-- Smooth navigation, placeholder artwork, and responsive scaling for handheld/docked modes.  
-- Multilingual interface (English / Portuguese).  
-
-## Coming soon:
-#### 🧩 Sysmodule Integration (NPShop Sysd)
-- Optional **background download service**, keeping transfers running while in other apps or home menu.  
-- Planned **Tesla overlay** to show download progress notifications.  
-
----
-
-### 🌐 Features (NPShop.org Web Platform)
-
-- **Personal dashboard** with your linked devices and Google account.  
-- Upload and organize your legal backups directly from your browser.  
-- **Game catalog** with automatic metadata parsing and cover image management.  
-- **Save manager** — download or restore backups per game/user.  
-- **Tinfoil index builder** — encrypted `.tfl` catalog generation with RSA-wrapped AES keys.  
-- **Device management** — link or unlink Switch consoles via QR or device code.  
-- Background processing (queue system) for indexing, encryption, and Drive operations.  
-- **Google Drive downscoping** for secure, per-file download links.  
-
----
-
-### ⚠️ Legal Disclaimer
-> NPShop and its developers **do not condone piracy**.  
-> This project is **solely intended for managing personal backups of games you legally own**.  
->  
-> No copyrighted content, keys, or ROMs are hosted or distributed by NPShop.org or this homebrew.  
-> Misuse of the software is the sole responsibility of the end user.  
->  
-> Please comply with all copyright laws in your jurisdiction.
-
----
-
-### 🧑‍💻 Credits
-Original authors & major contributors:
-
-- **ITotalJustice** — for *Sphaira*, the foundational project on which NPShop was built.  
-- **borealis**, **stb**, **yyjson**, **nx-hbmenu**, **nx-hbloader**, **deko3d-nanovg**, **libpulsar**, **minIni**, **GBATemp**, **hb-appstore**, **haze**, **nxdumptool**, **Liam0**, **libusbhsfs**, **libnxtc**, **oss-nvjpg**, **nsz**, **themezer** — and everyone else whose open-source contributions made NPShop possible.
-
-❤️ *NPShop continues the legacy of Sphaira with modern cloud integration, updated UI, and strong legal boundaries.*
-
----
-
 ## 🇧🇷 Português (Brasil)
 
 ### Visão Geral
@@ -181,7 +98,7 @@ Juntos, eles oferecem uma experiência completa para **hospedar, sincronizar e i
 
 ### Agradecimentos
 
-🙏 Um enorme obrigado ao [@CostelaCNX](https://github.com/CostelaCNX) por incluir o NPShop no CNX Pack 20.0.5-1!
+🙏 Um enorme obrigado ao [@CostelaCNX](https://github.com/CostelaCNX) por incluir o NPShop no CNX Pack 20.5.0-1!
 Isso torna ainda mais fácil ter o app atualizado direto no seu Switch.
 
 ### 🧑‍💻 Créditos
