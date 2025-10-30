@@ -181,7 +181,7 @@ Juntos, eles oferecem uma experiência completa para **hospedar, sincronizar e i
 
 ### Agradecimentos
 
-🙏 Um enorme obrigado ao @CostelaCNX por incluir o NPShop no CNX Pack 20.0.5-1!
+🙏 Um enorme obrigado ao [@CostelaCNX](https://github.com/CostelaCNX) por incluir o NPShop no CNX Pack 20.0.5-1!
 Isso torna ainda mais fácil ter o app atualizado direto no seu Switch.
 
 ### 🧑‍💻 Créditos
