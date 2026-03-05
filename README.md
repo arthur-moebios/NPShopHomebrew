@@ -11,11 +11,11 @@ Integrated with <a href="https://npshop.org">NPShop.org</a>
 
 <p align="center">
 
-![Downloads](https://img.shields.io/github/downloads/arthurfreitas/NPShopSwitch/total?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/arthur-moebios/NPShopHomebrew/total?style=for-the-badge)
 
 ![Platform](https://img.shields.io/badge/platform-Nintendo%20Switch-orange?style=for-the-badge)
 
-![License](https://img.shields.io/github/license/arthurfreitas/NPShopSwitch?style=for-the-badge)
+![License](https://img.shields.io/github/license/arthur-moebios/NPShopHomebrew?style=for-the-badge)
 
 </p>
 
