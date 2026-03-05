@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://npshop.org/public/assets/logo.png" alt="NPShop Logo" width="400" height="400"/>
+  <img src="https://npshop.org/assets/logo.png" alt="NPShop Logo" width="400" height="400"/>
 </p>
 
 <h1 align="center">🧩 NPShop</h1>
@@ -12,12 +12,8 @@
   <a href="https://github.com/arthur-moebios/NPShopHomebrew/releases">
     <img src="https://img.shields.io/github/v/release/arthur-moebios/NPShopHomebrew?style=flat-square&color=brightgreen" alt="Latest Release">
   </a>
-  <a href="https://github.com/arthur-moebios/NPShopHomebrew/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/arthur-moebios/NPShopHomebrew/build.yml?style=flat-square&label=Build" alt="Build Status">
-  </a>
-  <a href="https://github.com/arthur-moebios/NPShopHomebrew/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/arthur-moebios/NPShopHomebrew?style=flat-square&color=blue" alt="License">
-  </a>
+![Downloads](https://img.shields.io/github/downloads/arthurfreitas/NPShopSwitch/total)
+</a>
   <img src="https://img.shields.io/badge/platform-Nintendo%20Switch-orange?style=flat-square" alt="Platform">
 </p>
 
