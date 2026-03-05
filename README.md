@@ -9,11 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/arthur-moebios/NPShopHomebrew/releases">
-    <img src="https://img.shields.io/github/v/release/arthur-moebios/NPShopHomebrew?style=flat-square&color=brightgreen" alt="Latest Release">
-  </a>
 ![Downloads](https://img.shields.io/github/downloads/arthurfreitas/NPShopSwitch/total)
-</a>
   <img src="https://img.shields.io/badge/platform-Nintendo%20Switch-orange?style=flat-square" alt="Platform">
 </p>
 
